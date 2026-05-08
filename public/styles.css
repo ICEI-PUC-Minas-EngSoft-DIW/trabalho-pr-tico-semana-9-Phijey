@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+#controls {
+  margin-bottom: 20px;
+}
+
+#controls input,
+#controls select,
+#controls button {
+  padding: 8px;
+  margin-right: 8px;
+}
+
+#product-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.card {
+  width: 220px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 4px;
+}
+
+.card button {
+  margin-top: 8px;
+  margin-right: 5px;
+  padding: 6px 8px;
+  cursor: pointer;
+}
+
+.highlight {
+  border: 2px solid #333;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+}
+
+#product-details {
+  margin-top: 25px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  max-width: 500px;
+}

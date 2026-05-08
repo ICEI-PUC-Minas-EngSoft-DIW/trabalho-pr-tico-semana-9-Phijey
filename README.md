@@ -4,14 +4,14 @@ Nesta atividade, vamos montar um programa para praticar funções em JavaScript 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Pedro José de Magalhães Tavares Camilo
+- Matricula: 909687
 
 ## Prints do trabalho
 
 <<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
-
+![Imagem Tela](public/printTela.png)
 <<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
-
+![Imagem Detalhe](public/printDetalhe.png)
 <<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
-
+![Imagem Console](public/printConsole.png)
